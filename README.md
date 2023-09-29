@@ -2,7 +2,13 @@
 ![leetcode](https://github.com/dixon66/dixon66/assets/52631366/8eb0d049-ceca-4f67-a36f-e416bd6875d2) 
 -->
 
-<h1 align="center">Hi 👋, I'm Dixon</h1>
+<h1 align="center" style="position: relative;"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Animated GIF" width="75x" style="position: absolute; top: 45%;left:30%; transform: translateY(-50%);"> I'm Dixon</h1>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Animated GIF" width="95px" align="right">
+
+<!-- 
+cat typing gif
+-->
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Animated GIF" width="135px" align="right">
 
 🔭 I’m currently working on **Twitter clone**
 
@@ -16,28 +22,30 @@
 
 📫 How to reach me **ndixon055@gmail.com**
 
-📄 Know about my [experiences](link)
+📄 Know about my [Experiences](link)
+<img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" alt="Animated GIF" width="75px" align="right">
 
-⚡ Fun fact **fun fact**
+⚡ Fun fact : Explore, Connect, Collaborate, Ask Me for Hideouts in South India
 
 #
 
-### Tech Stack
+<h3 style="display: inline-block; vertical-align: middle;"> Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Animated GIF" width="25px" style="display: inline-block; vertical-align: middle;" /> </h3>
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"/></p>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
 <p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" alt="android" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -47,10 +55,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" alt="selenium" width="45" height="45"/>
 </p>
 
 #
-### 📰 Blog Posts
+### 📚 Blog Posts
 - [Best Scraping Techniques 🤖](https://genesis.hashnode.dev/unveiling-the-power-of-web-scraping-a-comprehensive-guide)
 - [Payment Systems - My First Experience 🏛️](In Progress)
 - [APIs !](comming soon)
@@ -58,6 +67,7 @@
 #
 
 ### 📈 Github Stats
+<br/>
 <img src="https://komarev.com/ghpvc/?username=dixon66"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dixon66&theme=tokyonight)
@@ -67,7 +77,7 @@
 #
 
 ### ☕ Let's Connect
-<a href="https://twitter.com/dixon1099"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
+<a href="https://twitter.com/dixon1099"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="Twitter Account" width="50"/></a>
 <a href ="https://wa.me/+918838882908"><img src="whatsapp-icon.svg" alt="Whatsapp Account" width="35"/></a>
 <a href="https://www.instagram.com/dixon.1099/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="35"/></a>
 <a href ="https://t.me/tele_one_bot"><img src="Telegram_logo.svg" alt="Telegram Account" width="35"/></a>
