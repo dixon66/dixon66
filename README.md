@@ -64,10 +64,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dixon66&show_icons=true&theme=tokyonight)
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixon66" alt="dixon66" /></a> </p>
-
 #
 
 ### ☕ Let's Connect
