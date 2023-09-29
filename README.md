@@ -2,13 +2,17 @@
 ![leetcode](https://github.com/dixon66/dixon66/assets/52631366/8eb0d049-ceca-4f67-a36f-e416bd6875d2) 
 -->
 
-# Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+<h1 align="center">Hi 👋, I'm Dixon</h1>
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+- 🔭 I’m currently working on **Twitter clone**
+
+- 👯 I’m looking to collaborate on **spring and python projects**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **ndixon055@gmail.com**
+
+#
 
 #
 
