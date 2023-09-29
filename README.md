@@ -8,6 +8,12 @@
     <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" alt="Animated GIF" width="30px" style="display: inline-block; vertical-align: middle;">
 </h1>
 
+<span style="display: inline-flex; align-items: flex-start;">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated GIF" width="310px" align="right" style="display: inline-block; vertical-align: middle;">
+</span>
+
+
+
 🔭 I’m currently working on **Twitter clone**
 
 🌱 I’m currently learning **Next.js**
