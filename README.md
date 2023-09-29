@@ -1,3 +1,7 @@
+<!-- 
+![leetcode](https://github.com/dixon66/dixon66/assets/52631366/8eb0d049-ceca-4f67-a36f-e416bd6875d2) 
+-->
+
 <h1 align="center">Hi 👋, I'm Dixon</h1>
 
 - 🔭 I’m currently working on **Twitter clone**
@@ -32,7 +36,7 @@
 
 ### ☕ Let's Connect
 <a href="https://linkedin.com/in/dixon055"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
-<a href="https://www.leetcode.com/dixon_n"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="dixon_n" width="30" style="background-color: black;" />
+<a href="https://www.leetcode.com/dixon_n"><img src="leetcode.jpg" alt="dixon_n" width="45" style="background-color: black;" />
 </a>
 <a href ="https://www.linkedin.com/in/dixon055/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="35"/></a>
 <a href="https://hashnode.com/@dixon55"><img src="https://www.cdnlogo.com/logos/h/71/hashnode.svg" width="35"></a>
