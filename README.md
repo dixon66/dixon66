@@ -31,9 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixon66&show_icons=true&locale=en" alt="dixon66" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dixon055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dixon055" height="30" width="40" /></a>
-<a href="https://hashnode.com/@dixon55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dixon55" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dixon_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dixon_n" height="30" width="40" /></a>
-</p>
+### ☕ Let's Connect
+<a href="https://linkedin.com/in/dixon055"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
+<a href="https://hashnode.com/@dixon55"><i class="fa-brands fa-hashnode" style="color: #2962ff;"></i></a>
+<a href="https://www.leetcode.com/dixon_n" target="blank"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
+<img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/>
+#
