@@ -2,7 +2,7 @@
 ![leetcode](https://github.com/dixon66/dixon66/assets/52631366/8eb0d049-ceca-4f67-a36f-e416bd6875d2) 
 -->
 
-# Hi 👋, I'm Dixon
+<h1 align="center">Hi 👋, I'm Dixon</h1>
 
 🔭 I’m currently working on **Twitter clone**
 
@@ -10,7 +10,7 @@
 
 👯 I’m looking to collaborate on **spring and python projects**
 
-📝 I write about [Tech](Tech)
+📝 I write about [Tech](https://hashnode.com/@dixon55)
 
 💬 Let's chat in **Java**
 
@@ -67,10 +67,10 @@
 #
 
 ### ☕ Let's Connect
-<a href="https://linkedin.com/in/dixon055"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
+<a href="https://twitter.com/dixon1099"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
 <a href ="https://wa.me/+918838882908"><img src="whatsapp-icon.svg" alt="Whatsapp Account" width="35"/></a>
 <a href ="https://t.me/tele_one_bot"><img src="Telegram_logo.svg" alt="Telegram Account" width="35"/></a>
-<a href="https://www.leetcode.com/dixon_n"><img src="leetcode.jpg" alt="dixon_n" width="45" style="border-radius: 50% !important;" /></a>
+<a href="https://www.leetcode.com/dixon_n"><img src="leetcode.jpg" alt="dixon_n" width="45"/></a>
 <a href ="https://www.linkedin.com/in/dixon055/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="35"/></a>
 <a href="https://hashnode.com/@dixon55"><img src="https://www.cdnlogo.com/logos/h/71/hashnode.svg" width="35"></a>
 #
