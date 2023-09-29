@@ -2,15 +2,13 @@
 ![leetcode](https://github.com/dixon66/dixon66/assets/52631366/8eb0d049-ceca-4f67-a36f-e416bd6875d2) 
 -->
 
-<h1 align="center">Hi 👋, I'm Dixon</h1>
+# Adrian Twarog
+I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
-- 🔭 I’m currently working on **Twitter clone**
-
-- 👯 I’m looking to collaborate on **spring and python projects**
-
-- 💬 Let's chat on **Java**
-
-- 📫 How to reach me **ndixon055@gmail.com**
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 #
 
@@ -27,15 +25,25 @@
 <p>
 
 
+### 📰 Blog Posts
+- [Best Scraping Techniques 🤖]([https://dev.to/samyukthasudhakar/the-glam-look-your-web-projects-deserve-p59](https://genesis.hashnode.dev/unveiling-the-power-of-web-scraping-a-comprehensive-guide))
+- [Payment Systems - My First Experience 👩🏽‍💻](paste link here)
+- [APIs !](paste link here)
+
+#
+
 ### 📈 Github Stats
 <img src="https://komarev.com/ghpvc/?username=dixon66"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dixon66&theme=tokyonight)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dixon66&show_icons=true&theme=tokyonight)
+#
 
 ### ☕ Let's Connect
 <a href="https://linkedin.com/in/dixon055"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
+whatsup
+telegram
 <a href="https://www.leetcode.com/dixon_n"><img src="leetcode.jpg" alt="dixon_n" width="45" style="background-color: black;" />
 </a>
 <a href ="https://www.linkedin.com/in/dixon055/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="35"/></a>
