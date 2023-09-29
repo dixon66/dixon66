@@ -73,8 +73,8 @@
 ### ☕ Let's Connect
 <a href="https://linkedin.com/in/dixon055"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
 
-<a href ="https://www.linkedin.com/in/dixon055/"><img src="whatsapp-icon.svg" alt="Whatsapp Account" width="35"/></a>
-telegram
+<a href ="https://wa.me/+918838882908"><img src="WhatsApp-Logo.png" alt="Whatsapp Account" width="35"/></a>
+<a href ="https://t.me/tele_one_bot"><img src="telegram.png" alt="Telegram Account" width="35"/></a>
 <a href="https://www.leetcode.com/dixon_n"><img src="leetcode.jpg" alt="dixon_n" width="45" style="background-color: black;" />
 </a>
 <a href ="https://www.linkedin.com/in/dixon055/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="35"/></a>
