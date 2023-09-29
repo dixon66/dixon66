@@ -5,10 +5,8 @@
 <h1 align="center" style="background-color: black; color: white;">
     <img src="hi.gif" alt="Animated GIF" width="82px" style="display: inline-block; vertical-align: middle;">
     I'm Dixon
+    <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" alt="Animated GIF" width="30px" style="display: inline-block; vertical-align: middle;">
 </h1>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Animated GIF" width="135px" align="right">
 
 🔭 I’m currently working on **Twitter clone**
 
@@ -60,6 +58,9 @@
 
 #
 ### 📚 Blog Posts
+
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Animated GIF" width="110px" align="right">
+
 - [Best Scraping Techniques 🤖](https://genesis.hashnode.dev/unveiling-the-power-of-web-scraping-a-comprehensive-guide)
 - [Payment Systems - My First Experience 🏛️](In Progress)
 - [APIs !](comming soon)
