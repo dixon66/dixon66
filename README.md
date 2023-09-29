@@ -52,8 +52,8 @@
 #
 ### 📰 Blog Posts
 - [Best Scraping Techniques 🤖]([https://dev.to/samyukthasudhakar/the-glam-look-your-web-projects-deserve-p59](https://genesis.hashnode.dev/unveiling-the-power-of-web-scraping-a-comprehensive-guide))
-- [Payment Systems - My First Experience 👩🏽‍💻](paste link here)
-- [APIs !](paste link here)
+- [Payment Systems - My First Experience 🏛️](In Progress)
+- [APIs !](comming soon)
 
 #
 
@@ -72,11 +72,9 @@
 
 ### ☕ Let's Connect
 <a href="https://linkedin.com/in/dixon055"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
-
-<a href ="https://wa.me/+918838882908"><img src="WhatsApp-Logo.png" alt="Whatsapp Account" width="35"/></a>
-<a href ="https://t.me/tele_one_bot"><img src="telegram.png" alt="Telegram Account" width="35"/></a>
-<a href="https://www.leetcode.com/dixon_n"><img src="leetcode.jpg" alt="dixon_n" width="45" style="background-color: black;" />
-</a>
+<a href ="https://wa.me/+918838882908"><img src="whatsapp-icon.svg" alt="Whatsapp Account" width="35"/></a>
+<a href ="https://t.me/tele_one_bot"><img src="Telegram_logo.svg" alt="Telegram Account" width="35"/></a>
+<a href="https://www.leetcode.com/dixon_n"><img src="leetcode.jpg" alt="dixon_n" width="45" style="border-radius: 50% !important;" /></a>
 <a href ="https://www.linkedin.com/in/dixon055/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="35"/></a>
 <a href="https://hashnode.com/@dixon55"><img src="https://www.cdnlogo.com/logos/h/71/hashnode.svg" width="35"></a>
 #
