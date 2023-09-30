@@ -12,25 +12,15 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated GIF" width="295px" align="right" style="display: inline-block; vertical-align: middle;">
 </span>
 
-
-
-🔭 I’m currently working on **Twitter clone**
-
-🌱 I’m currently learning **Next.js**
-
-👯 I’m looking to collaborate on **spring and python projects**
-
-📝 I write about [Tech](https://hashnode.com/@dixon55)
-
-💬 Let's chat in **Java**
-
-📫 How to reach me **ndixon055@gmail.com**
-
-📄 Know about my [Experiences](link)
-<img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" alt="Animated GIF" width="75px" align="right">
-
-⚡ Fun fact : Explore, Connect, Collaborate, Ask Me for Hideouts in South India
-
+🔭 I’m currently working on **Twitter clone**  
+🌱 I’m currently learning **Next.js**  
+👯 I’m looking to collaborate on **spring and python projects**  
+📝 I write about [Tech](https://hashnode.com/@dixon55)  
+⚡ Fun fact : Explore, Connect, Collaborate, Ask Me for Hideouts in South India  
+💬 Let's chat in **Java**  
+📄 Know about my [Experiences](link)  
+📫 How to reach me **ndixon055@gmail.com**  
+  
 #
 
 <h3 style="display: inline-block; vertical-align: middle;"> Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Animated GIF" width="25px" style="display: inline-block; vertical-align: middle;" /> </h3>
