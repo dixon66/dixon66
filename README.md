@@ -65,7 +65,7 @@
 #
 ### 📚 Blog Posts
 
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Animated GIF" width="110px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Animated GIF" width="105px" align="right">
 
 - [Best Scraping Techniques 🤖](https://genesis.hashnode.dev/unveiling-the-power-of-web-scraping-a-comprehensive-guide)
 - [Payment Systems - My First Experience 🏛️](In Progress)
