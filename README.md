@@ -9,7 +9,7 @@
 </h1>
 
 <span style="display: inline-flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated GIF" width="310px" align="right" style="display: inline-block; vertical-align: middle;">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated GIF" width="295px" align="right" style="display: inline-block; vertical-align: middle;">
 </span>
 
 
