@@ -25,7 +25,7 @@
 
 <h3 style="display: inline-block; vertical-align: middle;"> Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Animated GIF" width="25px" style="display: inline-block; vertical-align: middle;" /> </h3>
 
-
+<h6>Backend Stack</h6>
 <span style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>  
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>  
@@ -36,13 +36,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>  
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="30" height="30"/>  
 </span>
-<h6>Backend Stack</h6>
+
+<h6>Frontend Stack</h6>
 <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>  
 </span>
-<h6>Frontend Stack text.</h6>
 
+<h6>Hands-On</h6>
 <span>
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" alt="android" width="30" height="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>  
@@ -56,7 +57,7 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/>  
 <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" alt="selenium" width="35" height="30"/>  
 </span>
-<h6>Hands-On</h6>
+
 
 #
 ### 📚 Blog Posts
