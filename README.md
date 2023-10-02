@@ -75,7 +75,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dixon66&theme=tokyonight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dixon66&show_icons=true&theme=tokyonight)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dixon66&show_icons=true&theme=tokyonight) -->
 
 #
 
