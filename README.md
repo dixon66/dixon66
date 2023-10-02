@@ -9,7 +9,7 @@
 </h1>
 
 <span style="display: inline-flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated GIF" width="275px" align="right" style="display: inline-block; vertical-align: middle;">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated GIF" width="235px" align="right" style="display: inline-block; vertical-align: middle;">
 </span>
 
 🔭 I’m currently working on **Twitter clone**  
