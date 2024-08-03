@@ -12,13 +12,6 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated GIF" width="235px" align="right" style="display: inline-block; vertical-align: middle;">
 </span>
 
-🔭 I’m currently working on **Twitter clone**  
-🌱 I’m currently learning **Next.js**  
-👯 I’m looking to collaborate on **spring and python projects**  
-📝 I write about [Tech](https://hashnode.com/@dixon55)  
-⚡ Fun fact : Explore, Connect, Collaborate, Ask Me for Hideouts in South India  
-💬 Let's chat in **Java**  
-📄 Know about my [Experiences](https://dixon66.github.io/portfolio/)  
 📫 How to reach me **ndixon055@gmail.com**  
   
 #
